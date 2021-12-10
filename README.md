@@ -1,5 +1,5 @@
 # Krnl-Source
-# Please Visit Hanime.tv and Rule34.xxx Btw It Really Good!
+# Please Visit Hanime.tv and Rule34.xxx It A Really Good Website!
 ## **OFFICIAL KRNL WEBSITE ---> https://krnl.ca/ .**
 # [You can download the source here (click me)](https://github.com/HarpoonHarry/Krnl-source/releases)
 
