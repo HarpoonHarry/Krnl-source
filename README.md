@@ -5,7 +5,7 @@
 
 
 credits:
-HarpoonHarry - (unpack the loader)
+HarpoonHarry - (unpack the Krnl)
 
 Info:
 I know Krnl is public but i got nothing to do sooo YEA ENJOY THE SRC
